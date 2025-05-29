@@ -21,7 +21,7 @@ Automação desenvolvida em Python para realizar lançamentos contábeis automat
 - `pandas`  
 - `openpyxl`  
 - `python-docx`  
-- `PyPDF2` ou `pdfplumber` (confirme qual usou)  
+- `pdfplumber`
 - Outras bibliotecas necessárias  
 
 ---
