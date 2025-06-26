@@ -39,6 +39,7 @@ Automação desenvolvida em Python para realizar lançamentos contábeis automat
 
 📦 automacao_lancamentos_contabeis
 
+```
 ├── main.py # Arquivo principal da automação
 
 ├── funcoes.py # Funções de processamento e leitura dos arquivos
@@ -50,3 +51,4 @@ Automação desenvolvida em Python para realizar lançamentos contábeis automat
 ├── requirements.txt # Dependências do projeto
 
 └── README.md # Este arquivo
+```
