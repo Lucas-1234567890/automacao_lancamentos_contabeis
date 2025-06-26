@@ -17,7 +17,7 @@ Automação desenvolvida em Python para realizar lançamentos contábeis automat
 ## 🔧 Tecnologias utilizadas  
 
 - Python  
-- `selenium` (se usou automação web/gui)  
+- `selenium` 
 - `pandas`  
 - `openpyxl`  
 - `python-docx`  
